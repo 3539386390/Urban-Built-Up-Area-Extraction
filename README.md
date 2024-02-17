@@ -40,3 +40,7 @@ This dataset may provide necessary data reference and support for researchers in
 [2]Chen, Y.; Yao, S.; Hu, Z.; Huang, B.; Miao, L.; Zhang, J. Built-up Area Extraction Combing Densely Connected Du-al-Attention Network and Multi-Scale Context. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2023.  
 If you have any questions or suggestions, please contact us：chenyixiang@njupt.edu.cn; 1022173204@njupt.edu.cn
 
+## Please use the link below to access the dataset.
+
+link：https://pan.baidu.com/s/1NJXt4BakUWi9zdxMhhUT6Q?pwd=66gg 
+Extraction Password：66gg 
