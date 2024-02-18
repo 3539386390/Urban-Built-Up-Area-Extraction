@@ -25,7 +25,7 @@ This dataset was created from Gaofen-2 satellite imagery covering Shenzhen, Chin
 
 ## Test Dataset Information
 
-The test set includes satellite images of five sub-regions in Shenzhen, with the following sizes:
+The test set includes satellite images of five sub-regions in Shenzhen, along with corresponding ground truth annotation data.The specific sizes are as follows:
 
 - Test 1: 8960 × 7840
 - Test 2: 10,080 × 8960
